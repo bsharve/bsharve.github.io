@@ -1,0 +1,4 @@
+*.ipynb
+.vimrc
+pynb_checkpoints/
+__pycache__/
