@@ -1,2 +1,2 @@
-# ESMEDataAnalytic.github.io
+# ESMEDataAnalytics
 GW EMSE Data Science Course
