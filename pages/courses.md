@@ -20,10 +20,10 @@ description: Karl Broman's teaching
 
 #### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2017)
 
-- [Site](https://bsharvey.github.io/pages/teaching.html)
-- [My Portfolio](https://bsharvey.github.io/pages/teaching.html)
-- [Assignments](https://bsharvey.github.io/pages/teaching.html)
-- [Labs](https://bsharvey.github.io/pages/teaching.html)
+- [Site](https://bsharvey.github.io/)
+- [My Portfolio](https://username.github.io/)
+- [Assignments](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Assignments)
+- [Labs](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs)
 
 ---
 
