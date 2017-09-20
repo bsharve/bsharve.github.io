@@ -1,7 +1,7 @@
 ---
 layout: page
-title: teaching
-description: Karl Broman's teaching
+title: courses
+description: Student's Courses
 ---
 
 <div class="navbar">
