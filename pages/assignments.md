@@ -32,8 +32,9 @@ description: Ben Harvey's assignments
 
 {Add description of example an assignment here}
 
-[assignment1 results](http://groups.google.com/group/Rqtl-disc)
-[assignment1 repositiory](http://groups.google.com/group/Rqtl-disc)
+| Results                                                        | Repository                                                         |
+| -------------------------------------------------------------- |:------------------------------------------------------------------:|
+| [assignment1 results](http://groups.google.com/group/Rqtl-disc)| [assignment1 repositiory](http://groups.google.com/group/Rqtl-disc)|
 
 ---
 
