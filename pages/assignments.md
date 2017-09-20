@@ -52,8 +52,9 @@ description: Ben Harvey's assignments
 
 {Add description of example an assignment here}
 
-[assignment2 results]()
-[assignment2 repository]()
+| Results                | Repository                 |
+| ---------------------- |:--------------------------:|
+| [assignment2 results]()| [assignment2 repositiory]()|
 
 ---
 
@@ -70,10 +71,13 @@ description: Ben Harvey's assignments
 
 {Add description of example an assignment here}
 
-[assignment3 results]()
-[assignment3 repositiory]()
+
+| Results                | Repository                 |
+| ---------------------- |:--------------------------:|
+| [assignment3 results]()| [assignment3 repositiory]()|
 
 ---
+
 
 
 ####  <a name="Assignment4"></a>Assignment4
@@ -88,10 +92,13 @@ description: Ben Harvey's assignments
 
 {Add description of example an assignment here}
 
-[assignment4 results]()
-[assignment4 repository]()
+
+| Results                | Repository                 |
+| ---------------------- |:--------------------------:|
+| [assignment4 results]()| [assignment4 repositiory]()|
 
 ---
+
 
 ####  <a name="ExtraCredit"></a>Extra Credit Assignment
 ##### <a name="webscraping"></a>webs craping
@@ -105,10 +112,13 @@ description: Ben Harvey's assignments
 
 {Add description of example an assignment here}
 
-[EC assignment results]()
-[EC assignment repository]()
+
+| Results                | Repository                 |
+| ---------------------- |:--------------------------:|
+| [Extra Credit results]()| [Extra Credit repositiory]()|
 
 ---
+
 
 #### EMSE 6992 Labs
 ##### <a name="labassignments"></a>lab assignments
