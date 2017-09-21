@@ -7,6 +7,7 @@ description: Ben Harvey's assignments
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#datastructures">data structures</a></li>
             <li><a href="#deeplearning">deep learning</a></li>
             <li><a href="#machinelearning">machine learning</a></li>
             <li><a href="#networkanalysis">network analysis</a></li>
@@ -19,6 +20,14 @@ description: Ben Harvey's assignments
         </ul>
     </div>
 </div>
+
+
+### <a name="datastructures"></a>data structures
+#### <a name="qtl"></a>[pandas](http://www.rqtl.org)
+{Add description of example an library here}
+
+[pandas example](http://groups.google.com/group/Rqtl-disc)
+[pandas repository](http://groups.google.com/group/Rqtl-disc)
 
 
 ### <a name="deeplearning"></a>deep learning
